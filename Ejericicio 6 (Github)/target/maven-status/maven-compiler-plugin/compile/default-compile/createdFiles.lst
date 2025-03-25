@@ -1,0 +1,15 @@
+org\gerdoc\inicio\Inicio.class
+org\gerdoc\vista\Ventana.class
+org\gerdoc\vista\Consola.class
+org\gerdoc\util\ReadUtil.class
+org\gerdoc\vista\Menu.class
+org\gerdoc\vista\Ejecutable.class
+org\gerdoc\historial\Historiales.class
+org\gerdoc\model\figura\figura2\Escaleno.class
+org\gerdoc\historial\Historial.class
+org\gerdoc\model\figura\Equilatero.class
+org\gerdoc\model\figura\Triangulo.class
+org\gerdoc\vista\SolicitaDatos.class
+org\gerdoc\model\figura\figura2\Isosceles.class
+org\gerdoc\model\figura\Figura.class
+org\gerdoc\model\figura\Cuadrado.class
